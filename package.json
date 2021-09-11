@@ -1,0 +1,27 @@
+{
+	"name": "xcode-classic-light",
+	"displayName": "Xcode Classic Light",
+	"description": "Xcode's \"Classic (Light)\" Theme for VS Code based on the 'gerane.theme-xcodedefault' and 'smockle.xcode-default-theme' themes.",
+	"version": "0.0.1",
+	"publisher": "alexcu",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Xcode Classic Light",
+				"uiTheme": "vs",
+				"path": "./themes/Xcode Classic Light-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9b074781-647b-49c9-bb38-65024781a3d5",
+		"publisherDisplayName": "alexcu",
+		"publisherId": "40dec8e0-01b7-40cd-8a37-27cdac29eec2"
+	}
+}
